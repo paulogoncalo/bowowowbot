@@ -1,0 +1,2 @@
+configparser==3.7.4
+python-telegram-bot==11.1.0
